@@ -1,42 +1,42 @@
-# Rahul Kumar — Embedded Firmware Engineer
+# Rahul Kumar | Embedded Firmware Engineer
 
-Embedded C/C++ | FreeRTOS | Zephyr RTOS | STM32 | ESP32 | BLE | IoT
+Embedded C/C++ • FreeRTOS • Zephyr RTOS • STM32 • ESP32 • BLE • IoT
 
 ## About Me
 
-I am an Embedded Firmware Engineer with 4+ years of experience developing firmware for industrial and IoT products. My interests include real-time systems, wireless connectivity, firmware architecture, debugging, and secure OTA updates.
+Embedded Firmware Engineer with 4+ years of experience in embedded firmware development for industrial and IoT applications. Interested in real-time systems, wireless communication, low-level firmware, hardware integration, and secure OTA updates.
 
 ## Technical Skills
 
-- **Languages:** C, Embedded C, Python
-- **RTOS:** FreeRTOS, Zephyr RTOS
+- **Programming:** C, Embedded C, Python
+- **RTOS:** FreeRTOS, Zephyr RTOS, Bare-metal programming
 - **Microcontrollers:** STM32, ESP32, Nordic nRF52
 - **Interfaces:** SPI, I2C, UART, GPIO, ADC
-- **Connectivity:** BLE, Wi-Fi, MQTT
+- **Connectivity:** BLE, Wi-Fi, MQTT, NB-IoT
 - **Firmware:** Bootloaders, OTA/FOTA, interrupts, timers, watchdogs
-- **Debugging:** JTAG/SWD, GDB, logic analyzers, oscilloscopes
+- **Debugging:** JTAG/SWD, logic analyzers, oscilloscopes
 - **Tools:** Git, Bitbucket, STM32CubeIDE, GCC
 
 ## Featured Projects
 
 ### 1. ESP32 OTA Firmware Update
-Remote firmware updates over Wi-Fi with firmware integrity verification.
+Remote firmware update workflow using Wi-Fi, HTTPS, and firmware integrity verification.
 
 ### 2. FreeRTOS Task Management
-Demonstrations of tasks, queues, mutexes, semaphores, and task synchronization.
+Task scheduling, queues, mutexes, semaphores, and inter-task communication.
 
 ### 3. STM32 Industrial Condition Monitoring
-Embedded firmware for sensor data processing, fault detection, and RAM optimization.
+Sensor-data processing, motor fault detection, and firmware memory optimization.
 
 ### 4. BLE and IoT Connectivity
-Wireless device communication and integration with IoT applications.
+Wireless communication and cloud connectivity for embedded IoT devices.
 
-## Engineering Interests
+## Areas of Interest
 
-Embedded systems, low-level firmware, RTOS scheduling, wireless protocols, memory optimization, hardware debugging, and secure firmware updates.
+Embedded firmware development, RTOS, Bluetooth Low Energy, low-level drivers, hardware debugging, memory optimization, and secure firmware updates.
 
 ## Contact
 
-- GitHub: https://github.com/sahanioo7
-- LinkedIn: Add your LinkedIn profile URL here
+- **GitHub:** https://github.com/rahulsoo7
+- **LinkedIn:** https://linkedin.com/in/rahul-sahani-526833166
 
